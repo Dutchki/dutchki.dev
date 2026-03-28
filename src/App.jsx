@@ -101,7 +101,7 @@ export default function App() {
   return (
     <div className="app">
       <header>
-        <span className="logo">◈ maze</span>
+        <span className="logo">dutchki.dev</span>
         <nav>
           <span className="stat">moves <b>{moves}</b></span>
           <span className="stat">time <b>{fmt(time)}</b></span>
